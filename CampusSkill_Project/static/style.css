@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #003366;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #0055aa;
+    font-weight: bold;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #e0f0ff;
+}
